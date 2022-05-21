@@ -1,1 +1,3 @@
 ui/bindata.go linguist-generated=true
+codesearch/** linguist-generated=true
+ansi/tty* linguist-generated=true
